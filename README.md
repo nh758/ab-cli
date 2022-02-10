@@ -14,7 +14,7 @@ $ sudo npm install -g Hiro-Nakamura/ab-cli
 ## Development Install (local machine)
 
 ```sh
-$ appbuilder install [target_directory] --develop --V1
+$ appbuilder install [target_directory] --develop ab
 ```
 
 See https://appdevdesigns.github.io/appbuilder_docs/develop/setup/Setup.html
